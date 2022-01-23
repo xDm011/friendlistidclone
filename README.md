@@ -14,4 +14,4 @@ https://github.com/xDm011/friendlistidclone
 
 * cd friendlistidclone
 
-* friendlistidclone.py
+* python2 friendlistidclone.py
